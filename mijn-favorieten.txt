@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 slangen
 aligator
 Mert
+=======
+Gamen
+Gymen
+Chillen
+>>>>>>> hobbies
